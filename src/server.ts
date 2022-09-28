@@ -36,5 +36,6 @@ const main = async () => {
         throw new Error("Unable to connect to db");
     }
 }
+// https://helpex.vn/question/typeorm-postgresql-cac-moi-quan-he-tai-hao-huc-duoc-dinh-nghia-la-luoi-bieng-60d83628853e4fd7cbcfc7af
 
 main();
